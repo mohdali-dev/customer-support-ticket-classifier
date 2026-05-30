@@ -1,0 +1,7 @@
+transformers
+gradio
+torch
+huggingface_hub
+scikit-learn
+pandas
+datasets
