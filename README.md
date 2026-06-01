@@ -1,6 +1,6 @@
-# 🎫 AI Customer Support Ticket Classifier & Router
-
 <div align="center">
+    
+# 🎫 AI Customer Support Ticket Classifier & Router
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
